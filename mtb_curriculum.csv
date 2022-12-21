@@ -1,0 +1,38 @@
+krz; name; bereich; fachsem; cp; note
+MA1; Mathematik 1; Mathematik und Naturwissenschaften; 1; 5; -
+PH1; Physik 1; Mathematik und Naturwissenschaften; 1; 6; -
+ET1; Elektrotechnik 1; Elektro- und Digitaltechnik; 1; 5; -
+DT1; Digitaltechnik 1; Elektro- und Digitaltechnik; 1; 5; -
+PI; Praktiksche Informatik; Ingenieurs-Informatik; 1; 5; -
+MED1; Anatomie, Physiologie; Medizin; 1; -; -
+MED2; Pathologie, Biochemie; Medizin; 2; 7; -
+MA2; Mathematik 2; Mathematik und Naturwissenschaften; 2; 5; -
+PH2; Physik 2; Mathematik und Naturwissenschaften; 2; 6; -
+OOP; Objektorientierte Programmierung; Ingenieurs-Informatik; 2; 7; -
+ET2; Elektrotechnik 2; Elektro- und Digitaltechnik; 2; 8; -
+MA3; Mathematik 3; Mathematische Grundlagen der Medizintechnik; 3; 6; -
+SS; Signale und Systems; Mathematische Grundlagen der Medizintechnik; 3; 5; -
+FEL; Felder; Elektro- und Informationstechnik; 3; 5; -
+AGT; Analogtechnik 1; Elektro- und Informationstechnik; 3; 5; -
+DMC; Digital- und Mikrocomputertechnik; Digitale und Embedded Systems; 3; 5; -
+SET; Software Entwicklungsmethoden und Tools; Softwareentwicklung; 3; 5; -
+DSV; Digitale Signalverarbeitung; Mathematische Grundlagen der Medizintechnik; 4; 5; -
+BVM; Bildgebende Verfahren in der Medizintechnik; Medizintechnische Vertiefungsfächer; 4; 5; -
+MED3; Klinische Medizin; Medizintechnische Vertiefungsfächer; 4; 4; -
+EMB; Embedded Systems; Digitale und Embedded Systems; 4; 6; -
+BS; Betriebssyteme; Softwareentwicklung; 4; 5; -
+HF; Hochfrequenztechnik; Elektro- und Informationstechnik; 4; 5; -
+WA1; Wahlfach 1; -; 4; 4; -
+BV; Blockveranstaltungen; -; 5; 4; -
+PS; Praxissemester; -; 5; -; -
+KOM; Kommunikationstechnik; Elektro- und Informationstechnik; 6; 5; -
+CN2; Computernetze 2; Softwareentwicklung; 6; 5; -
+SE1; Sensorik; Elektro- und Informationstechnik; 6; 5; -
+NEP; Neuroprothetik; Medizintechnische Vertiefungsfächer; 6; 5; -
+BM; Bildgestützte Medizin und Navigation; Medizintechnische Vertiefungsfächer; 6; 5; -
+BME; Biomedizinische Elektronik; Medizintechnische Vertiefungsfächer; 6; 5; -
+SOE; Software Engineering; Softwareentwicklung; 6; 5; -
+WA2; Wahlfach 2; -; 7; 5; -
+WA3; Wahlfach 3; -; 7; 5; -
+BWL; Betriebswirtschaftslehre; Fachübegreifende Inhalte; 7; 5; -
+BA; Bachelorarbeit; -; 7; 15; -
